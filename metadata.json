@@ -1,0 +1,7 @@
+{
+  "name": "Acupuncture Needle Counter",
+  "description": "An application to record acupuncture needle counts for patients by scanning a QR code and assigning them to a bed for display.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
